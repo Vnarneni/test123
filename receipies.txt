@@ -5,4 +5,7 @@ pasta
 chicken
 
 
+beans
+pizza
+
 Thank you
